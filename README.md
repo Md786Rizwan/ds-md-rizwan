@@ -80,3 +80,5 @@ Analyze the relationship between **trader behaviour** and **market sentiment (Fe
 Email: *your email here*  
 LinkedIn: *your profile link*
 
+https://colab.research.google.com/drive/1rlJLrfMof2clMKyci16Dt5UWvutLH78m?usp=sharing
+
